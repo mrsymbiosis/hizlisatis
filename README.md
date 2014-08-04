@@ -1,0 +1,4 @@
+hizlisatis
+==========
+
+Hızlı Satış
